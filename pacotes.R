@@ -1,0 +1,9 @@
+#Libraries
+library(magrittr)
+library(tidyverse)
+library(viridis)
+library(plotly)
+library(stats)
+library(ggplot2)
+library(ggstatsplot)
+library(hrbrthemes)
